@@ -1,6 +1,6 @@
 # steepest_descent
 ## Gradiente Descendente .... [descrição]
-## Instalação [boas práticas]
+## Instalação [Instale o Python]
 ## Como executar [boas práticas]
 
 
